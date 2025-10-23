@@ -36,6 +36,7 @@ import {
 
 // @ts-ignore
 import { Splide, SplideSlide } from "@splidejs/react-splide";
+// @ts-ignore
 import "@splidejs/react-splide/css";
 import { TbTerminal2 } from "react-icons/tb";
 

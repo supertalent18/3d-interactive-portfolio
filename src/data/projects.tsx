@@ -911,7 +911,7 @@ const projects: Project[] = [
       return (
         <div>
           <TypographyP className="font-mono ">
-            When the user enters the start command, the bot sends him a welcome message stating that the user has free 3000 ChatGPT tokens, 3 DALL·E image generations and 3 Stable Diffusion image generations and displays 4 buttons: "💭Chatting — ChatGPT-4o", "🌄Image generation — DALL·E 3", "🌅Image generation — Stable Diffusion 3" and "👤My account | 💰Buy". If the user is already registered, the bot only displays buttons.
+            When the user enters the start command, the bot sends him a welcome message stating that the user has free 3000 ChatGPT tokens, 3 DALL·E image generations and 3 Stable Diffusion image generations and displays 4 buttons: `&quot;`💭Chatting — ChatGPT-4o`&quot;`, `&quot;`🌄Image generation — DALL·E 3`&quot;`, `&quot;`🌅Image generation — Stable Diffusion 3`&quot;` and `&quot;`👤My account | 💰Buy`&quot;`. If the user is already registered, the bot only displays buttons.
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
           <SlideShow
