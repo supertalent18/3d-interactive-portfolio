@@ -14,7 +14,7 @@ const PROJECTS = [
     name: "Portfolio",
     description: `Welcome to my digital playground, where creativity meets code in the
             dopest way possible.`,
-    link: "https://www.timothymyers.com/",
+    link: "https://timothymyers.dev/",
     images: [
       "/assets/projects-screenshots/aidockerfileoptimizer/1.png"
     ],
@@ -33,7 +33,7 @@ const PROJECTS = [
     name: "Portfolio",
     description: `Welcome to my digital playground, where creativity meets code in the
             dopest way possible.`,
-    link: "https://www.timothymyers.com/",
+    link: "https://timothymyers.dev/",
     images: [
       "/assets/projects-screenshots/myportfolio/landing.png",
       "/assets/projects-screenshots/myportfolio/navbar.png",

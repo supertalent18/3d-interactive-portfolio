@@ -4,7 +4,7 @@
 
 Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-### Live preview: https://www.timothymyers.com/
+### Live preview: https://timothymyers.dev/
 
 
 This project is **inspired** by the amazing work of Timothy Myers. His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
@@ -80,7 +80,7 @@ The portfolio website is built using the following tools and technologies:
 
 ## 🚀 Deployment
 
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.timothymyers.com/).
+This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://timothymyers.dev/).
 
 ### Setting up Resend API on Vercel
 

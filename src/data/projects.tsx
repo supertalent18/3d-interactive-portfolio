@@ -855,7 +855,7 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/myportfolio/landing.png",
     screenshots: ["assets/projects-screenshots/myportfolio/landing.png"],
-    live: "https://www.timothymyers.com/",
+    live: "https://timothymyers.dev/",
     github:"https://github.com/supertalent18/3D-interactive-portfolio",
     skills: {
       frontend: [
